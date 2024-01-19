@@ -1,6 +1,6 @@
 [![MasterHead](https://geomoer.github.io/moer-base-r/assets/images/spotlights/github_header.png)]
 <h1 align="center">Hi 👋, I'm Suryansh Rana</h1>
-<h3 align="center">I am a technology enthusiast currently pursuing a Bachelor's degree in Technology with a specialization in Artificial Intelligence and Machine Learning (AIML). I am deeply passionate about exploring and advancing in the field of AIML</h3>
+<h3 align="center">I am a technology enthusiast currently pursuing  Bachelor's degree in Technology with a specialization in Artificial Intelligence and Machine Learning (AIML). I am deeply passionate about exploring and advancing in the field of AIML</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/m1WLq0zS4i0AAAAC/blueorredpill-doesthematrixhaveyou.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasuryansh14&label=Profile%20views&color=0e75b6&style=flat" alt="ranasuryansh14" /> </p>
