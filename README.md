@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/suryanshranaa" target="blank"><img src="https://img.shields.io/twitter/follow/suryanshranaa?logo=twitter&style=for-the-badge" alt="suryanshranaa" /></a> </p>
 
-- 🔭 I’m currently working on **Zoomie.io**
-
 - 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **AI, Tech, Automation**
@@ -28,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranasuryansh14&show_icons=true&locale=en&layout=compact" alt="ranasuryansh14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranasuryansh14&" alt="ranasuryansh14" /></p>
