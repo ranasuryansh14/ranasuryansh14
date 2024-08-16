@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suryansh Rana</h1>
+<h1 align="center">Hey there👋</h1>
 <img alt="Coding" width="1000" src="https://geomoer.github.io/moer-base-r/assets/images/spotlights/github_header.png">
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp">
 <h3 align="center">Lets Connect!</h3>
@@ -15,7 +15,7 @@
 </div>
 
 ###
-- 💬 Ask me about **React, Machine Learning, Django**
+- 💬 Interests **React, Django, Machine Learning**
 
 - 📫 How to reach me **suryanshrana91@gmail.com**
 
