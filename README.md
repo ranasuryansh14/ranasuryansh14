@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryansh Rana</h1>
 <img alt="Coding" width="1000" src="https://geomoer.github.io/moer-base-r/assets/images/spotlights/github_header.png">
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/m1WLq0zS4i0AAAAC/blueorredpill-doesthematrixhaveyou.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp">
 <h3 align="center">Lets Connect!</h3>
 
 <div align="center">
