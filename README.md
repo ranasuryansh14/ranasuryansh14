@@ -46,7 +46,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
     </a>
-    <h1 align="center">📚 Python Libraries</h1>
   </p>
 </div>
 
