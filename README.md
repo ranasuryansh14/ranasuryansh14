@@ -1,33 +1,3 @@
-<h1 align="center">Hey there👋</h1>
-<img alt="Coding" width="1000" src="https://geomoer.github.io/moer-base-r/assets/images/spotlights/github_header.png">
-<!-- <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.webp"> -->
-<h3 align="center">Lets Connect!</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/suryanshrana14/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/suryanshranaa?mx=2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me/1269378826354561047" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-###
-
-
-###
-- 💬 Interests **React, Django, Machine Learning**
-
-- 📫 How to reach me **suryanshrana91@gmail.com**
-
-###
-
-<h1 align="center">🛠 Techstack</h1>
 
 ###
 <div align="center">
@@ -74,4 +44,25 @@
 </div>
 
 ###
+
+<h3 align="center">Lets Connect!</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/suryanshrana14/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/suryanshranaa?mx=2" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me/1269378826354561047" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+###
+
+- 📫 Mail- **suryanshrana91@gmail.com**
+
 
